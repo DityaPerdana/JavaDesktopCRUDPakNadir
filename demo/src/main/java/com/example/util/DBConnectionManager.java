@@ -10,8 +10,6 @@ public class DBConnectionManager {
     private static final String USER = "ditya";
     private static final String PASSWORD = ".";
 
-    // You should replace these with your actual database connection details
-
     private static Connection connection;
 
     private DBConnectionManager() {}
